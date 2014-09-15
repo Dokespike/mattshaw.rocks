@@ -1,0 +1,28 @@
+div{
+	top: 0;
+	bottom: 0;
+	height: 100%;
+	background: white;
+	left: 0;
+	margin: auto;
+	position: absolute;
+	right: 0;
+	width: 720px;
+}
+
+.title {
+
+}
+
+.p {
+
+}
+
+
+.navbar {
+	background-color: #898989; 
+	z-index: 10; 
+	position: fixed; 
+	left: 0; 
+	top: 200px; 
+}
