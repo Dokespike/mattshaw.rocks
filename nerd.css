@@ -1,4 +1,4 @@
-div{
+.container {
 	top: 0;
 	bottom: 0;
 	height: 100%;
@@ -7,16 +7,14 @@ div{
 	margin: auto;
 	position: absolute;
 	right: 0;
-	width: 720px;
+	width: 80%;
 }
 
-.title {
 
+h1, p {
+font-family: 'Source Sans Pro', sans-serif;
 }
 
-.p {
-
-}
 
 
 .navbar {
