@@ -1,26 +1,41 @@
 .container {
-	top: 0;
-	bottom: 0;
-	height: 100%;
-	background: white;
-	left: 0;
-	margin: auto;
-	position: absolute;
-	right: 0;
-	width: 80%;
-}
-
-
-h1, p {
-font-family: 'Source Sans Pro', sans-serif;
+	margin-left: auto;
+    margin-right: auto;
+	width: 700px;
 }
 
 
 
-.navbar {
-	background-color: #898989; 
-	z-index: 10; 
-	position: fixed; 
-	left: 0; 
-	top: 200px; 
+.navBar {
+	background-color: white;
+	height: 76px;
+	width: 700px;
+	border: 1px solid;
+	border-radius: 5px;
+	position: fixed;
+}
+
+
+
+.navButton {
+	text-align: middle;
+	color: white;
+	background-color: blue;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+}
+
+
+
+.title {
+	color: grey;
+	font-size: 23px;
+}
+
+
+
+hr {
+	border: 1px
+	border-color: #E6E6E6
 }
