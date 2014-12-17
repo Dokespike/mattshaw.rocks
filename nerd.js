@@ -14,9 +14,3 @@ $(function() {
     }
   });
 });
-
-
-
-
-var audio = new Audio('strangers.wav');
-audio.play();
