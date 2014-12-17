@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <!--
  _________________________________________
 / Hello, I am a cow.                      \
@@ -117,5 +115,3 @@ Integer elementum vitae felis in viverra. Donec pretium mattis turpis. Morbi con
 
 </div>
 </body>
-
-</html>
